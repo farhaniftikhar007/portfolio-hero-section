@@ -2,21 +2,21 @@
   {
     "title": "Next-Gen Digital Experiences",
     "description": "Immersive interfaces crafted with cutting-edge technology and futuristic aesthetics.",
-    "image": "image/1.jpg",
+    "image": "1.jpg",
     "button": "Explore Vision",
     "link": "#"
   },
   {
     "title": "Architecting the Future",
     "description": "Ultra-premium web development bridging the gap between solid backend logic and high-end design.",
-    "image": "image/2.jpg",
+    "image": "2.jpg",
     "button": "Discover More",
     "link": "#"
   },
   {
     "title": "Flawless Performance",
     "description": "A seamless blend of dynamic interactions, robust data handling, and cinematic transitions.",
-    "image": "image/3.jpg",
+    "image": "3.jpg",
     "button": "View Portfolio",
     "link": "#"
   }
